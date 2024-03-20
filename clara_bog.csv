@@ -1,28 +1,4 @@
-Timestamp,Title,Value,Present
-2024-03-20 12:00:00,Air temperature,100,TRUE
-2024-03-20 12:00:00,Windspeed and wind direction,100,TRUE
-2024-03-20 12:00:00,Air humidity,100,TRUE
-2024-03-20 12:00:00,Barometric pressure,100,TRUE
-2024-03-20 12:00:00,Precipitation,100,TRUE
-2024-03-20 12:00:00,Incoming shortwave radiation,100,TRUE
-2024-03-20 12:00:00,Soil characterization,100,TRUE
-2024-03-20 12:00:00,Soil moisture,100,TRUE
-2024-03-20 12:00:00,Surface water temperature,100,TRUE
-2024-03-20 12:00:00,Surface water discharge,100,TRUE
-2024-03-20 12:00:00,Surface water pH,100,TRUE
-2024-03-20 12:00:00,Surface water specific conductivity,100,FALSE
-2024-03-20 12:00:00,Groundwater temperature,100,FALSE
-2024-03-20 12:00:00,Groundwater elevation,100,TRUE
-2024-03-20 12:00:00,Groundwater specific conductivity,100,FALSE
-2024-03-20 12:00:00,Surface water nutrients and ions,100,TRUE
-2024-03-20 12:00:00,Soil water chemistry,100,TRUE
-2024-03-20 12:00:00,Atmospheric deposition,100,FALSE
-2024-03-20 12:00:00,Surface water dissolved organic carbon (DOC),100,FALSE
-2024-03-20 12:00:00,Soil heat flux,100,FALSE
-2024-03-20 12:00:00,Radiation budget,100,FALSE
-2024-03-20 12:00:00,Leaf area index (LAI),100,FALSE
-2024-03-20 12:00:00,Concentration of CO2 and water vapor,100,FALSE
-2024-03-20 12:00:00,Abundance and identity of birds,100,FALSE
-2024-03-20 12:00:00,Abundance and identity of insects,100,FALSE
-2024-03-20 12:00:00,Abundance of vascular plants,100,TRUE
-2024-03-20 12:00:00,Tree height/diameter/litter fall,100,TRUE
+Timestamp,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00,2024-03-20 12:00:00
+Title,Air temperature,Windspeed and wind direction,Air humidity,Barometric pressure,Precipitation,Incoming shortwave radiation,Soil characterization,Soil moisture,Surface water temperature,Surface water discharge,Surface water pH,Surface water specific conductivity,Groundwater temperature,Groundwater elevation,Groundwater specific conductivity,Surface water nutrients and ions,Soil water chemistry,Atmospheric deposition,Surface water dissolved organic carbon (DOC),Soil heat flux,Radiation budget,Leaf area index (LAI),Concentration of CO2 and water vapor,Abundance and identity of birds,Abundance and identity of insects,Abundance of vascular plants,Tree height/diameter/litter fall
+Value,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Present,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
