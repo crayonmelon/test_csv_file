@@ -1,28 +1,28 @@
-Title,Value,Present
-Air temperature,100,TRUE
-Windspeed and wind direction,100,TRUE
-Air humidity,100,TRUE
-Barometric pressure,100,TRUE
-Precipitation,100,TRUE
-Incoming shortwave radiation,100,TRUE
-Soil characterization,100,TRUE
-Soil moisture,100,TRUE
-Surface water temperature,100,TRUE
-Surface water discharge,100,TRUE
-Surface water pH,100,TRUE
-Surface water specific conductivity,100,FALSE
-Groundwater temperature,100,FALSE
-Groundwater elevation,100,TRUE
-Groundwater specific conductivity,100,FALSE
-Surface water nutrients and ions,100,TRUE
-Soil water chemistry,100,TRUE
-Atmospheric deposition,100,FALSE
-Surface water dissolved organic carbon (DOC),100,FALSE
-Soil heat flux,100,FALSE
-Radiation budget,100,FALSE
-Leaf area index (LAI),100,FALSE
-Concentration of CO2 and water vapor,100,FALSE
-Abundance and identity of birds,100,FALSE
-Abundance and identity of insects,100,FALSE
-Abundance of vascular plants,100,TRUE
-Tree height/diameter/litter fall,100,TRUE
+Timestamp,Title,Value,Present
+2024-03-20 12:00:00,Air temperature,100,TRUE
+2024-03-20 12:00:00,Windspeed and wind direction,100,TRUE
+2024-03-20 12:00:00,Air humidity,100,TRUE
+2024-03-20 12:00:00,Barometric pressure,100,TRUE
+2024-03-20 12:00:00,Precipitation,100,TRUE
+2024-03-20 12:00:00,Incoming shortwave radiation,100,TRUE
+2024-03-20 12:00:00,Soil characterization,100,TRUE
+2024-03-20 12:00:00,Soil moisture,100,TRUE
+2024-03-20 12:00:00,Surface water temperature,100,TRUE
+2024-03-20 12:00:00,Surface water discharge,100,TRUE
+2024-03-20 12:00:00,Surface water pH,100,TRUE
+2024-03-20 12:00:00,Surface water specific conductivity,100,FALSE
+2024-03-20 12:00:00,Groundwater temperature,100,FALSE
+2024-03-20 12:00:00,Groundwater elevation,100,TRUE
+2024-03-20 12:00:00,Groundwater specific conductivity,100,FALSE
+2024-03-20 12:00:00,Surface water nutrients and ions,100,TRUE
+2024-03-20 12:00:00,Soil water chemistry,100,TRUE
+2024-03-20 12:00:00,Atmospheric deposition,100,FALSE
+2024-03-20 12:00:00,Surface water dissolved organic carbon (DOC),100,FALSE
+2024-03-20 12:00:00,Soil heat flux,100,FALSE
+2024-03-20 12:00:00,Radiation budget,100,FALSE
+2024-03-20 12:00:00,Leaf area index (LAI),100,FALSE
+2024-03-20 12:00:00,Concentration of CO2 and water vapor,100,FALSE
+2024-03-20 12:00:00,Abundance and identity of birds,100,FALSE
+2024-03-20 12:00:00,Abundance and identity of insects,100,FALSE
+2024-03-20 12:00:00,Abundance of vascular plants,100,TRUE
+2024-03-20 12:00:00,Tree height/diameter/litter fall,100,TRUE
