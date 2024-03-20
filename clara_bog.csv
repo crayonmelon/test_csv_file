@@ -8,19 +8,19 @@ Timestamp,Title,Value,Present
 2024-03-20 12:00:00,Soil characterization,100,TRUE
 2024-03-20 12:00:00,Soil moisture,100,TRUE
 2024-03-20 12:00:00,Surface water temperature,100,TRUE
-2024-03-20 12:00:00,Surface water discharge,99,TRUE
-2024-03-20 12:00:00,Surface water pH,99,TRUE
+2024-03-20 12:00:00,Surface water discharge,100,TRUE
+2024-03-20 12:00:00,Surface water pH,100,TRUE
 2024-03-20 12:00:00,Surface water specific conductivity,100,FALSE
 2024-03-20 12:00:00,Groundwater temperature,100,FALSE
 2024-03-20 12:00:00,Groundwater elevation,100,TRUE
 2024-03-20 12:00:00,Groundwater specific conductivity,100,FALSE
 2024-03-20 12:00:00,Surface water nutrients and ions,100,TRUE
-2024-03-20 12:00:00,Soil water chemistry,99,TRUE
-2024-03-20 12:00:00,Atmospheric deposition,99,FALSE
+2024-03-20 12:00:00,Soil water chemistry,100,TRUE
+2024-03-20 12:00:00,Atmospheric deposition,100,FALSE
 2024-03-20 12:00:00,Surface water dissolved organic carbon (DOC),100,FALSE
-2024-03-20 12:00:00,Soil heat flux,99,FALSE
-2024-03-20 12:00:00,Radiation budget,99,FALSE
-2024-03-20 12:00:00,Leaf area index (LAI),99,FALSE
+2024-03-20 12:00:00,Soil heat flux,100,FALSE
+2024-03-20 12:00:00,Radiation budget,100,FALSE
+2024-03-20 12:00:00,Leaf area index (LAI),100,FALSE
 2024-03-20 12:00:00,Concentration of CO2 and water vapor,100,FALSE
 2024-03-20 12:00:00,Abundance and identity of birds,100,FALSE
 2024-03-20 12:00:00,Abundance and identity of insects,100,FALSE
