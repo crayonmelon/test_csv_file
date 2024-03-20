@@ -1,2 +1,28 @@
-Site Name,Site Operator,Site Contact,Year established,Site Status,Site/Plot,Catchment/System,County,Latitude,Longitude,Elevation (mAOD),Biome,Mean Temp (C),Mean Rainfall (mm),URL,Air temperature,Windspeed and wind direction,Air humidity,Barometric pressure,Precipitation,Incoming shortwave radiation,Soil characterization,Soil moisture,Surface water temperature,Surface water discharge,Surface water pH,Surface water specific conductivity,Groundwater temperature,Groundwater elevation,Groundwater specific conductivity,Surface water nutrients and ions,Soil water chemistry,Atmospheric deposition,Surface water dissolved organic carbon (DOC),Soil heat flux,Radiation budget,Leaf area index (LAI),Concentration of CO2 and water vapor,Abundance and identity of birds,Abundance and identity of insects,Abundance of vascular plants,Tree height/diameter/litter fall
-Clara Bog,Trinity College Dublin,XXXX,2007,Operational,TRUE,FALSE,Offaly,53.341923,-7.617452,65,Raised Bog,10.5,1000,https://www.npws.ie/nature-reserves/offaly/clara-bog-nature-reserve,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Title,Value,Present
+Air temperature,100,TRUE
+Windspeed and wind direction,100,TRUE
+Air humidity,100,TRUE
+Barometric pressure,100,TRUE
+Precipitation,100,TRUE
+Incoming shortwave radiation,100,TRUE
+Soil characterization,100,TRUE
+Soil moisture,100,TRUE
+Surface water temperature,100,TRUE
+Surface water discharge,100,TRUE
+Surface water pH,100,TRUE
+Surface water specific conductivity,100,FALSE
+Groundwater temperature,100,FALSE
+Groundwater elevation,100,TRUE
+Groundwater specific conductivity,100,FALSE
+Surface water nutrients and ions,100,TRUE
+Soil water chemistry,100,TRUE
+Atmospheric deposition,100,FALSE
+Surface water dissolved organic carbon (DOC),100,FALSE
+Soil heat flux,100,FALSE
+Radiation budget,100,FALSE
+Leaf area index (LAI),100,FALSE
+Concentration of CO2 and water vapor,100,FALSE
+Abundance and identity of birds,100,FALSE
+Abundance and identity of insects,100,FALSE
+Abundance of vascular plants,100,TRUE
+Tree height/diameter/litter fall,100,TRUE
