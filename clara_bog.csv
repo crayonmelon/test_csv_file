@@ -1,8 +1,8 @@
 Timestamp,Title,Value,Present
 2024-03-20 12:00:00,Air temperature,100,TRUE
 2024-03-20 12:00:00,Windspeed and wind direction,100,TRUE
-2024-03-20 12:00:00,Air humidity,100,TRUE
-2024-03-20 12:00:00,Barometric pressure,100,TRUE
+2024-03-20 12:00:00,Air humidity,100,FALSE
+2024-03-20 12:00:00,Barometric pressure,100,FALSE
 2024-03-20 12:00:00,Precipitation,100,TRUE
 2024-03-20 12:00:00,Incoming shortwave radiation,100,TRUE
 2024-03-20 12:00:00,Soil characterization,100,TRUE
